@@ -1,3 +1,3 @@
 def roll_dice
-  "You have rolled.."
+  4
 end
